@@ -1,0 +1,526 @@
+-------------------1 Experiment start.-------------------
+iter: 20 Ground state energy: -9.771671295166016
+iter: 40 Ground state energy: -10.425457000732422
+iter: 60 Ground state energy: -10.742482185363770
+iter: 80 Ground state energy: -10.871009826660156
+iter: 100 Ground state energy: -10.961821556091309
+iter: 120 Ground state energy: -11.079636573791504
+iter: 140 Ground state energy: -11.096954345703125
+iter: 160 Ground state energy: -11.105242729187012
+iter: 180 Ground state energy: -11.109354019165039
+iter: 200 Ground state energy: -11.112033843994141
+iter: 220 Ground state energy: -11.114376068115234
+iter: 240 Ground state energy: -11.116811752319336
+iter: 260 Ground state energy: -11.119462966918945
+iter: 280 Ground state energy: -11.122276306152344
+iter: 300 Ground state energy: -11.125062942504883
+iter: 320 Ground state energy: -11.127619743347168
+iter: 340 Ground state energy: -11.129799842834473
+iter: 360 Ground state energy: -11.131602287292480
+iter: 380 Ground state energy: -11.133089065551758
+iter: 400 Ground state energy: -11.134347915649414
+iter: 420 Ground state energy: -11.135430335998535
+iter: 440 Ground state energy: -11.136419296264648
+iter: 460 Ground state energy: -11.137372016906738
+iter: 480 Ground state energy: -11.138368606567383
+iter: 500 Ground state energy: -11.139504432678223
+iter: 520 Ground state energy: -11.140915870666504
+iter: 540 Ground state energy: -11.142763137817383
+iter: 560 Ground state energy: -11.145387649536133
+iter: 580 Ground state energy: -11.149673461914062
+iter: 600 Ground state energy: -11.159374237060547
+iter: 620 Ground state energy: -11.241578102111816
+iter: 640 Ground state energy: -12.251181602478027
+iter: 660 Ground state energy: -12.317782402038574
+iter: 680 Ground state energy: -12.330101966857910
+iter: 700 Ground state energy: -12.334426879882812
+iter: 720 Ground state energy: -12.336625099182129
+iter: 740 Ground state energy: -12.338095664978027
+iter: 760 Ground state energy: -12.339317321777344
+iter: 780 Ground state energy: -12.340535163879395
+iter: 800 Ground state energy: -12.341867446899414
+iter: 820 Ground state energy: -12.343323707580566
+iter: 840 Ground state energy: -12.344782829284668
+iter: 860 Ground state energy: -12.346157073974609
+iter: 880 Ground state energy: -12.347358703613281
+iter: 900 Ground state energy: -12.348348617553711
+iter: 920 Ground state energy: -12.349095344543457
+iter: 940 Ground state energy: -12.349637985229492
+iter: 960 Ground state energy: -12.350026130676270
+iter: 980 Ground state energy: -12.350329399108887
+iter: 1000 Ground state energy: -12.350560188293457
+~~~~~~~~~~ITR: 1006 ,Min: -12.350627899169922~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.068451067534624599 ,V_Score: 0.004487476122004844~~~~~~~~~~~~~~~
+-------------------2 Experiment start.-------------------
+iter: 20 Ground state energy: -11.453952789306641
+iter: 40 Ground state energy: -12.079768180847168
+iter: 60 Ground state energy: -12.170764923095703
+iter: 80 Ground state energy: -12.200751304626465
+iter: 100 Ground state energy: -12.230411529541016
+iter: 120 Ground state energy: -12.261001586914062
+iter: 140 Ground state energy: -12.272533416748047
+iter: 160 Ground state energy: -12.277955055236816
+iter: 180 Ground state energy: -12.281558990478516
+iter: 200 Ground state energy: -12.285049438476562
+iter: 220 Ground state energy: -12.288674354553223
+iter: 240 Ground state energy: -12.292614936828613
+iter: 260 Ground state energy: -12.296859741210938
+iter: 280 Ground state energy: -12.300897598266602
+iter: 300 Ground state energy: -12.303988456726074
+iter: 320 Ground state energy: -12.306139945983887
+iter: 340 Ground state energy: -12.307841300964355
+iter: 360 Ground state energy: -12.309317588806152
+iter: 380 Ground state energy: -12.310625076293945
+iter: 400 Ground state energy: -12.311802864074707
+iter: 420 Ground state energy: -12.312898635864258
+iter: 440 Ground state energy: -12.313961029052734
+iter: 460 Ground state energy: -12.314993858337402
+iter: 480 Ground state energy: -12.316026687622070
+iter: 500 Ground state energy: -12.317049980163574
+iter: 520 Ground state energy: -12.318037033081055
+iter: 540 Ground state energy: -12.318951606750488
+iter: 560 Ground state energy: -12.319778442382812
+iter: 580 Ground state energy: -12.320500373840332
+iter: 600 Ground state energy: -12.321157455444336
+iter: 620 Ground state energy: -12.321764945983887
+iter: 640 Ground state energy: -12.322370529174805
+iter: 660 Ground state energy: -12.323003768920898
+iter: 680 Ground state energy: -12.323717117309570
+iter: 700 Ground state energy: -12.324570655822754
+iter: 720 Ground state energy: -12.325616836547852
+iter: 740 Ground state energy: -12.326951026916504
+iter: 760 Ground state energy: -12.328603744506836
+iter: 780 Ground state energy: -12.330513000488281
+iter: 800 Ground state energy: -12.332417488098145
+iter: 820 Ground state energy: -12.334038734436035
+iter: 840 Ground state energy: -12.335212707519531
+iter: 860 Ground state energy: -12.336009979248047
+iter: 880 Ground state energy: -12.336524963378906
+iter: 900 Ground state energy: -12.336875915527344
+iter: 920 Ground state energy: -12.337149620056152
+iter: 940 Ground state energy: -12.337365150451660
+iter: 960 Ground state energy: -12.337573051452637
+iter: 980 Ground state energy: -12.337796211242676
+iter: 1000 Ground state energy: -12.338035583496094
+iter: 1020 Ground state energy: -12.338327407836914
+iter: 1040 Ground state energy: -12.338668823242188
+iter: 1060 Ground state energy: -12.339052200317383
+iter: 1080 Ground state energy: -12.339492797851562
+iter: 1100 Ground state energy: -12.339975357055664
+iter: 1120 Ground state energy: -12.340473175048828
+iter: 1140 Ground state energy: -12.340952873229980
+iter: 1160 Ground state energy: -12.341403961181641
+iter: 1180 Ground state energy: -12.341823577880859
+iter: 1200 Ground state energy: -12.342192649841309
+iter: 1220 Ground state energy: -12.342522621154785
+iter: 1240 Ground state energy: -12.342815399169922
+iter: 1260 Ground state energy: -12.342955589294434
+~~~~~~~~~~ITR: 1265 ,Min: -12.343121528625488~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.087628029191364476 ,V_Score: 0.005751657731324544~~~~~~~~~~~~~~~
+-------------------3 Experiment start.-------------------
+iter: 20 Ground state energy: -9.724889755249023
+iter: 40 Ground state energy: -10.477056503295898
+iter: 60 Ground state energy: -10.599070549011230
+iter: 80 Ground state energy: -10.649267196655273
+iter: 100 Ground state energy: -10.683542251586914
+iter: 120 Ground state energy: -10.768890380859375
+iter: 140 Ground state energy: -10.934953689575195
+iter: 160 Ground state energy: -11.027564048767090
+iter: 180 Ground state energy: -11.082405090332031
+iter: 200 Ground state energy: -11.092870712280273
+iter: 220 Ground state energy: -11.095531463623047
+iter: 240 Ground state energy: -11.096881866455078
+iter: 260 Ground state energy: -11.097792625427246
+iter: 280 Ground state energy: -11.098430633544922
+iter: 300 Ground state energy: -11.098855018615723
+iter: 320 Ground state energy: -11.099142074584961
+iter: 340 Ground state energy: -11.099342346191406
+iter: 360 Ground state energy: -11.099507331848145
+~~~~~~~~~~ITR: 369 ,Min: -11.099560737609863~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.260414273906462768 ,V_Score: 0.021137479585762325~~~~~~~~~~~~~~~
+-------------------4 Experiment start.-------------------
+iter: 20 Ground state energy: -11.673377037048340
+iter: 40 Ground state energy: -12.087867736816406
+iter: 60 Ground state energy: -12.187177658081055
+iter: 80 Ground state energy: -12.213833808898926
+iter: 100 Ground state energy: -12.221282005310059
+iter: 120 Ground state energy: -12.224658966064453
+iter: 140 Ground state energy: -12.227590560913086
+iter: 160 Ground state energy: -12.230703353881836
+iter: 180 Ground state energy: -12.234745025634766
+iter: 200 Ground state energy: -12.241055488586426
+iter: 220 Ground state energy: -12.252569198608398
+iter: 240 Ground state energy: -12.273532867431641
+iter: 260 Ground state energy: -12.296657562255859
+iter: 280 Ground state energy: -12.308407783508301
+iter: 300 Ground state energy: -12.313149452209473
+iter: 320 Ground state energy: -12.315528869628906
+iter: 340 Ground state energy: -12.317175865173340
+iter: 360 Ground state energy: -12.318491935729980
+iter: 380 Ground state energy: -12.319672584533691
+iter: 400 Ground state energy: -12.320868492126465
+iter: 420 Ground state energy: -12.322136878967285
+iter: 440 Ground state energy: -12.323503494262695
+iter: 460 Ground state energy: -12.324789047241211
+iter: 480 Ground state energy: -12.325827598571777
+iter: 500 Ground state energy: -12.326698303222656
+iter: 520 Ground state energy: -12.327541351318359
+iter: 540 Ground state energy: -12.328428268432617
+iter: 560 Ground state energy: -12.329364776611328
+iter: 580 Ground state energy: -12.330339431762695
+iter: 600 Ground state energy: -12.331345558166504
+iter: 620 Ground state energy: -12.332408905029297
+iter: 640 Ground state energy: -12.333536148071289
+iter: 660 Ground state energy: -12.334724426269531
+iter: 680 Ground state energy: -12.335932731628418
+iter: 700 Ground state energy: -12.337133407592773
+iter: 720 Ground state energy: -12.338261604309082
+iter: 740 Ground state energy: -12.339291572570801
+iter: 760 Ground state energy: -12.340254783630371
+iter: 780 Ground state energy: -12.341167449951172
+iter: 800 Ground state energy: -12.342013359069824
+iter: 820 Ground state energy: -12.342806816101074
+iter: 840 Ground state energy: -12.343496322631836
+iter: 860 Ground state energy: -12.344060897827148
+iter: 880 Ground state energy: -12.344514846801758
+iter: 900 Ground state energy: -12.344882011413574
+iter: 920 Ground state energy: -12.345184326171875
+iter: 940 Ground state energy: -12.345452308654785
+iter: 960 Ground state energy: -12.345674514770508
+~~~~~~~~~~ITR: 977 ,Min: -12.345851898193359~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.072921864906675182 ,V_Score: 0.004784269560123993~~~~~~~~~~~~~~~
+-------------------5 Experiment start.-------------------
+iter: 20 Ground state energy: -9.479180335998535
+iter: 40 Ground state energy: -10.197959899902344
+iter: 60 Ground state energy: -10.409227371215820
+iter: 80 Ground state energy: -10.512619018554688
+iter: 100 Ground state energy: -10.606469154357910
+iter: 120 Ground state energy: -10.759040832519531
+iter: 140 Ground state energy: -10.813644409179688
+iter: 160 Ground state energy: -10.821125030517578
+iter: 180 Ground state energy: -10.823845863342285
+iter: 200 Ground state energy: -10.826023101806641
+iter: 220 Ground state energy: -10.828653335571289
+iter: 240 Ground state energy: -10.832947731018066
+iter: 260 Ground state energy: -10.843286514282227
+iter: 280 Ground state energy: -10.888563156127930
+iter: 300 Ground state energy: -11.048346519470215
+iter: 320 Ground state energy: -11.072684288024902
+iter: 340 Ground state energy: -11.081480979919434
+iter: 360 Ground state energy: -11.085877418518066
+iter: 380 Ground state energy: -11.088687896728516
+iter: 400 Ground state energy: -11.091284751892090
+iter: 420 Ground state energy: -11.094459533691406
+iter: 440 Ground state energy: -11.099295616149902
+iter: 460 Ground state energy: -11.107690811157227
+iter: 480 Ground state energy: -11.122300148010254
+iter: 500 Ground state energy: -11.143710136413574
+iter: 520 Ground state energy: -11.225565910339355
+iter: 540 Ground state energy: -12.213701248168945
+iter: 560 Ground state energy: -12.292095184326172
+iter: 580 Ground state energy: -12.312430381774902
+iter: 600 Ground state energy: -12.318805694580078
+iter: 620 Ground state energy: -12.322360992431641
+iter: 640 Ground state energy: -12.324761390686035
+iter: 660 Ground state energy: -12.326663970947266
+iter: 680 Ground state energy: -12.328211784362793
+iter: 700 Ground state energy: -12.329521179199219
+iter: 720 Ground state energy: -12.330653190612793
+iter: 740 Ground state energy: -12.331649780273438
+iter: 760 Ground state energy: -12.332559585571289
+iter: 780 Ground state energy: -12.333415985107422
+iter: 800 Ground state energy: -12.334230422973633
+iter: 820 Ground state energy: -12.335022926330566
+iter: 840 Ground state energy: -12.335791587829590
+iter: 860 Ground state energy: -12.336524963378906
+iter: 880 Ground state energy: -12.337237358093262
+iter: 900 Ground state energy: -12.337903976440430
+iter: 920 Ground state energy: -12.338516235351562
+iter: 940 Ground state energy: -12.339075088500977
+iter: 960 Ground state energy: -12.339567184448242
+iter: 980 Ground state energy: -12.339989662170410
+iter: 1000 Ground state energy: -12.340365409851074
+iter: 1020 Ground state energy: -12.340681076049805
+iter: 1040 Ground state energy: -12.340951919555664
+iter: 1060 Ground state energy: -12.341166496276855
+iter: 1080 Ground state energy: -12.341346740722656
+~~~~~~~~~~ITR: 1099 ,Min: -12.341490745544434~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.076278052641100658 ,V_Score: 0.005008000381772171~~~~~~~~~~~~~~~
+-------------------6 Experiment start.-------------------
+iter: 20 Ground state energy: -11.364788055419922
+iter: 40 Ground state energy: -12.110309600830078
+iter: 60 Ground state energy: -12.227196693420410
+iter: 80 Ground state energy: -12.264587402343750
+iter: 100 Ground state energy: -12.276976585388184
+iter: 120 Ground state energy: -12.282972335815430
+iter: 140 Ground state energy: -12.287124633789062
+iter: 160 Ground state energy: -12.290399551391602
+iter: 180 Ground state energy: -12.293047904968262
+iter: 200 Ground state energy: -12.295245170593262
+iter: 220 Ground state energy: -12.297089576721191
+iter: 240 Ground state energy: -12.298711776733398
+iter: 260 Ground state energy: -12.300182342529297
+iter: 280 Ground state energy: -12.301561355590820
+iter: 300 Ground state energy: -12.302907943725586
+iter: 320 Ground state energy: -12.304254531860352
+iter: 340 Ground state energy: -12.305609703063965
+iter: 360 Ground state energy: -12.307021141052246
+iter: 380 Ground state energy: -12.308556556701660
+iter: 400 Ground state energy: -12.310261726379395
+iter: 420 Ground state energy: -12.312228202819824
+iter: 440 Ground state energy: -12.314518928527832
+iter: 460 Ground state energy: -12.317157745361328
+iter: 480 Ground state energy: -12.320006370544434
+iter: 500 Ground state energy: -12.322762489318848
+iter: 520 Ground state energy: -12.325103759765625
+iter: 540 Ground state energy: -12.326867103576660
+iter: 560 Ground state energy: -12.328197479248047
+iter: 580 Ground state energy: -12.329225540161133
+iter: 600 Ground state energy: -12.330069541931152
+iter: 620 Ground state energy: -12.330780029296875
+iter: 640 Ground state energy: -12.331394195556641
+iter: 660 Ground state energy: -12.331927299499512
+iter: 680 Ground state energy: -12.332412719726562
+iter: 700 Ground state energy: -12.332840919494629
+iter: 720 Ground state energy: -12.333239555358887
+iter: 740 Ground state energy: -12.333624839782715
+iter: 760 Ground state energy: -12.333993911743164
+iter: 780 Ground state energy: -12.334356307983398
+iter: 800 Ground state energy: -12.334725379943848
+iter: 820 Ground state energy: -12.335088729858398
+iter: 840 Ground state energy: -12.335460662841797
+iter: 860 Ground state energy: -12.335832595825195
+iter: 880 Ground state energy: -12.336200714111328
+iter: 900 Ground state energy: -12.336574554443359
+iter: 920 Ground state energy: -12.336938858032227
+iter: 940 Ground state energy: -12.337322235107422
+iter: 960 Ground state energy: -12.337699890136719
+iter: 980 Ground state energy: -12.338075637817383
+iter: 1000 Ground state energy: -12.338451385498047
+iter: 1020 Ground state energy: -12.338829994201660
+iter: 1040 Ground state energy: -12.339192390441895
+iter: 1060 Ground state energy: -12.339565277099609
+iter: 1080 Ground state energy: -12.339927673339844
+iter: 1100 Ground state energy: -12.340273857116699
+iter: 1120 Ground state energy: -12.340612411499023
+iter: 1140 Ground state energy: -12.340948104858398
+iter: 1160 Ground state energy: -12.341258049011230
+iter: 1180 Ground state energy: -12.341568946838379
+iter: 1200 Ground state energy: -12.341878890991211
+iter: 1220 Ground state energy: -12.342172622680664
+iter: 1240 Ground state energy: -12.342468261718750
+iter: 1260 Ground state energy: -12.342751502990723
+iter: 1280 Ground state energy: -12.343045234680176
+iter: 1300 Ground state energy: -12.343335151672363
+iter: 1320 Ground state energy: -12.343625068664551
+iter: 1340 Ground state energy: -12.343923568725586
+iter: 1360 Ground state energy: -12.344207763671875
+iter: 1380 Ground state energy: -12.344491004943848
+iter: 1400 Ground state energy: -12.344764709472656
+iter: 1420 Ground state energy: -12.345037460327148
+iter: 1440 Ground state energy: -12.345306396484375
+iter: 1460 Ground state energy: -12.345569610595703
+iter: 1480 Ground state energy: -12.345822334289551
+~~~~~~~~~~ITR: 1486 ,Min: -12.345886230468750~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.068030562251806259 ,V_Score: 0.004463335356879579~~~~~~~~~~~~~~~
+-------------------7 Experiment start.-------------------
+iter: 20 Ground state energy: -9.878406524658203
+iter: 40 Ground state energy: -10.465035438537598
+iter: 60 Ground state energy: -10.577356338500977
+iter: 80 Ground state energy: -10.683769226074219
+iter: 100 Ground state energy: -11.281197547912598
+iter: 120 Ground state energy: -12.219959259033203
+iter: 140 Ground state energy: -12.267532348632812
+iter: 160 Ground state energy: -12.295410156250000
+iter: 180 Ground state energy: -12.309569358825684
+iter: 200 Ground state energy: -12.317296028137207
+iter: 220 Ground state energy: -12.324194908142090
+iter: 240 Ground state energy: -12.329775810241699
+iter: 260 Ground state energy: -12.333632469177246
+iter: 280 Ground state energy: -12.336513519287109
+iter: 300 Ground state energy: -12.338776588439941
+iter: 320 Ground state energy: -12.340585708618164
+iter: 340 Ground state energy: -12.342057228088379
+iter: 360 Ground state energy: -12.343251228332520
+iter: 380 Ground state energy: -12.344193458557129
+iter: 400 Ground state energy: -12.344917297363281
+iter: 420 Ground state energy: -12.345473289489746
+iter: 440 Ground state energy: -12.345906257629395
+iter: 460 Ground state energy: -12.346258163452148
+iter: 480 Ground state energy: -12.346529006958008
+iter: 500 Ground state energy: -12.346765518188477
+iter: 520 Ground state energy: -12.346955299377441
+~~~~~~~~~~ITR: 521 ,Min: -12.346955299377441~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.076010264862816257 ,V_Score: 0.004986002525963619~~~~~~~~~~~~~~~
+-------------------8 Experiment start.-------------------
+iter: 20 Ground state energy: -11.309883117675781
+iter: 40 Ground state energy: -12.162127494812012
+iter: 60 Ground state energy: -12.268026351928711
+iter: 80 Ground state energy: -12.295392036437988
+iter: 100 Ground state energy: -12.303742408752441
+iter: 120 Ground state energy: -12.309757232666016
+iter: 140 Ground state energy: -12.314771652221680
+iter: 160 Ground state energy: -12.317558288574219
+iter: 180 Ground state energy: -12.318758010864258
+iter: 200 Ground state energy: -12.319485664367676
+iter: 220 Ground state energy: -12.319981575012207
+iter: 240 Ground state energy: -12.320335388183594
+iter: 260 Ground state energy: -12.320605278015137
+iter: 280 Ground state energy: -12.320822715759277
+iter: 300 Ground state energy: -12.321007728576660
+~~~~~~~~~~ITR: 306 ,Min: -12.321055412292480~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.121311544796299131 ,V_Score: 0.007991095329628497~~~~~~~~~~~~~~~
+-------------------9 Experiment start.-------------------
+iter: 20 Ground state energy: -9.968733787536621
+iter: 40 Ground state energy: -10.892719268798828
+iter: 60 Ground state energy: -11.059665679931641
+iter: 80 Ground state energy: -11.092189788818359
+iter: 100 Ground state energy: -11.099493980407715
+iter: 120 Ground state energy: -11.104030609130859
+iter: 140 Ground state energy: -11.107682228088379
+iter: 160 Ground state energy: -11.111105918884277
+iter: 180 Ground state energy: -11.114268302917480
+iter: 200 Ground state energy: -11.117050170898438
+iter: 220 Ground state energy: -11.119462966918945
+iter: 240 Ground state energy: -11.121576309204102
+iter: 260 Ground state energy: -11.123454093933105
+iter: 280 Ground state energy: -11.125096321105957
+iter: 300 Ground state energy: -11.126510620117188
+iter: 320 Ground state energy: -11.127724647521973
+iter: 340 Ground state energy: -11.128814697265625
+iter: 360 Ground state energy: -11.129806518554688
+iter: 380 Ground state energy: -11.130759239196777
+iter: 400 Ground state energy: -11.131679534912109
+iter: 420 Ground state energy: -11.132578849792480
+iter: 440 Ground state energy: -11.133472442626953
+iter: 460 Ground state energy: -11.134346008300781
+iter: 480 Ground state energy: -11.135192871093750
+iter: 500 Ground state energy: -11.136013031005859
+iter: 520 Ground state energy: -11.136818885803223
+iter: 540 Ground state energy: -11.137578010559082
+iter: 560 Ground state energy: -11.138319015502930
+iter: 580 Ground state energy: -11.139033317565918
+iter: 600 Ground state energy: -11.139723777770996
+iter: 620 Ground state energy: -11.140414237976074
+iter: 640 Ground state energy: -11.141092300415039
+iter: 660 Ground state energy: -11.141754150390625
+iter: 680 Ground state energy: -11.142416000366211
+iter: 700 Ground state energy: -11.143051147460938
+iter: 720 Ground state energy: -11.143690109252930
+iter: 740 Ground state energy: -11.144293785095215
+iter: 760 Ground state energy: -11.144872665405273
+iter: 780 Ground state energy: -11.145430564880371
+iter: 800 Ground state energy: -11.145975112915039
+iter: 820 Ground state energy: -11.146497726440430
+iter: 840 Ground state energy: -11.147005081176758
+iter: 860 Ground state energy: -11.147492408752441
+iter: 880 Ground state energy: -11.147938728332520
+iter: 900 Ground state energy: -11.148348808288574
+iter: 920 Ground state energy: -11.148712158203125
+iter: 940 Ground state energy: -11.149055480957031
+iter: 960 Ground state energy: -11.149375915527344
+iter: 980 Ground state energy: -11.149695396423340
+iter: 1000 Ground state energy: -11.150003433227539
+iter: 1020 Ground state energy: -11.150344848632812
+iter: 1040 Ground state energy: -11.150724411010742
+iter: 1060 Ground state energy: -11.151155471801758
+iter: 1080 Ground state energy: -11.151615142822266
+iter: 1100 Ground state energy: -11.152133941650391
+iter: 1120 Ground state energy: -11.152680397033691
+iter: 1140 Ground state energy: -11.153198242187500
+iter: 1160 Ground state energy: -11.153663635253906
+iter: 1180 Ground state energy: -11.154022216796875
+iter: 1200 Ground state energy: -11.154305458068848
+iter: 1220 Ground state energy: -11.154512405395508
+iter: 1240 Ground state energy: -11.154669761657715
+~~~~~~~~~~ITR: 1247 ,Min: -11.154717445373535~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.150083279309001227 ,V_Score: 0.012061884422353581~~~~~~~~~~~~~~~
+-------------------10 Experiment start.-------------------
+iter: 20 Ground state energy: -10.130232810974121
+iter: 40 Ground state energy: -10.623508453369141
+iter: 60 Ground state energy: -11.664491653442383
+iter: 80 Ground state energy: -12.181471824645996
+iter: 100 Ground state energy: -12.233335494995117
+iter: 120 Ground state energy: -12.250036239624023
+iter: 140 Ground state energy: -12.261521339416504
+iter: 160 Ground state energy: -12.272655487060547
+iter: 180 Ground state energy: -12.283799171447754
+iter: 200 Ground state energy: -12.294522285461426
+iter: 220 Ground state energy: -12.304321289062500
+iter: 240 Ground state energy: -12.312515258789062
+iter: 260 Ground state energy: -12.318363189697266
+iter: 280 Ground state energy: -12.322330474853516
+iter: 300 Ground state energy: -12.325142860412598
+iter: 320 Ground state energy: -12.327200889587402
+iter: 340 Ground state energy: -12.328787803649902
+iter: 360 Ground state energy: -12.330072402954102
+iter: 380 Ground state energy: -12.331167221069336
+iter: 400 Ground state energy: -12.332153320312500
+iter: 420 Ground state energy: -12.333049774169922
+iter: 440 Ground state energy: -12.333900451660156
+iter: 460 Ground state energy: -12.334723472595215
+iter: 480 Ground state energy: -12.335510253906250
+iter: 500 Ground state energy: -12.336276054382324
+iter: 520 Ground state energy: -12.337025642395020
+iter: 540 Ground state energy: -12.337769508361816
+iter: 560 Ground state energy: -12.338489532470703
+iter: 580 Ground state energy: -12.339176177978516
+iter: 600 Ground state energy: -12.339848518371582
+iter: 620 Ground state energy: -12.340471267700195
+iter: 640 Ground state energy: -12.341050148010254
+iter: 660 Ground state energy: -12.341565132141113
+iter: 680 Ground state energy: -12.342009544372559
+iter: 700 Ground state energy: -12.342379570007324
+iter: 720 Ground state energy: -12.342704772949219
+~~~~~~~~~~ITR: 727 ,Min: -12.342794418334961~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.077514569766208297 ,V_Score: 0.005088108339132480~~~~~~~~~~~~~~~
+---------------------Experiment end.---------------------
+--------------------Following all ITR.-------------------
+1006
+1265
+369
+977
+1099
+1486
+521
+306
+1247
+727
+~~~~~~~~~~~~Avg ITR: 900~~~~~~~~~~~~
+----------------Following all Min Energy.----------------
+-12.350627899169922
+-12.343121528625488
+-11.099560737609863
+-12.345851898193359
+-12.341490745544434
+-12.345886230468750
+-12.346955299377441
+-12.321055412292480
+-11.154717445373535
+-12.342794418334961
+--------------------Following all VarE.-------------------
+0.068451067534624599
+0.087628029191364476
+0.260414273906462768
+0.072921864906675182
+0.076278052641100658
+0.068030562251806259
+0.076010264862816257
+0.121311544796299131
+0.150083279309001227
+0.077514569766208297
+--------------------Following all V_Score.-------------------
+0.004487476122004844
+0.005751657731324544
+0.021137479585762325
+0.004784269560123993
+0.005008000381772171
+0.004463335356879579
+0.004986002525963619
+0.007991095329628497
+0.012061884422353581
+0.005088108339132480
+~~~~~~~~~~~~Min of All: -12.350627899169922,Index: 1 ~~~~~~~
+~~~~~~~~~~~~VarE of Min E: 0.068451067534624599,V_Score of Min E: 0.004487476122004844 ~~~~~~~
+~~~~~~~~~~~~Avg VarE: 0.105864350916635888,Avg V_Score: 0.007575930935494563 ~~~~~~~
+~~~~~~~~~~~~Avg of All: -12.099206161499023~~~~~~~~~~~~

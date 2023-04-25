@@ -1,0 +1,56 @@
+-------------------1 Experiment start.-------------------
+iter: 20 Ground state energy: -10.624107360839844
+iter: 40 Ground state energy: -12.152616500854492
+iter: 60 Ground state energy: -12.286186218261719
+iter: 80 Ground state energy: -12.309758186340332
+iter: 100 Ground state energy: -12.317287445068359
+iter: 120 Ground state energy: -12.319850921630859
+iter: 140 Ground state energy: -12.321586608886719
+iter: 160 Ground state energy: -12.322798728942871
+iter: 180 Ground state energy: -12.323598861694336
+iter: 200 Ground state energy: -12.324151992797852
+iter: 220 Ground state energy: -12.324598312377930
+iter: 240 Ground state energy: -12.324994087219238
+iter: 260 Ground state energy: -12.325417518615723
+iter: 280 Ground state energy: -12.325901985168457
+iter: 300 Ground state energy: -12.326470375061035
+iter: 320 Ground state energy: -12.327165603637695
+iter: 340 Ground state energy: -12.328020095825195
+iter: 360 Ground state energy: -12.329064369201660
+iter: 380 Ground state energy: -12.330290794372559
+iter: 400 Ground state energy: -12.331676483154297
+iter: 420 Ground state energy: -12.333146095275879
+iter: 440 Ground state energy: -12.334545135498047
+iter: 460 Ground state energy: -12.335822105407715
+iter: 480 Ground state energy: -12.336906433105469
+iter: 500 Ground state energy: -12.337843894958496
+iter: 520 Ground state energy: -12.338647842407227
+iter: 540 Ground state energy: -12.339343070983887
+iter: 560 Ground state energy: -12.339972496032715
+iter: 580 Ground state energy: -12.340556144714355
+iter: 600 Ground state energy: -12.341090202331543
+iter: 620 Ground state energy: -12.341588973999023
+iter: 640 Ground state energy: -12.342060089111328
+iter: 660 Ground state energy: -12.342479705810547
+iter: 680 Ground state energy: -12.342886924743652
+iter: 700 Ground state energy: -12.343257904052734
+iter: 720 Ground state energy: -12.343611717224121
+iter: 740 Ground state energy: -12.343940734863281
+iter: 760 Ground state energy: -12.344256401062012
+iter: 780 Ground state energy: -12.344557762145996
+~~~~~~~~~~ITR: 781 ,Min: -12.344557762145996~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.085679057431661931 ,V_Score: 0.005622424183081313~~~~~~~~~~~~~~~
+---------------------Experiment end.---------------------
+--------------------Following all ITR.-------------------
+781
+~~~~~~~~~~~~Avg ITR: 781~~~~~~~~~~~~
+----------------Following all Min Energy.----------------
+-12.344557762145996
+--------------------Following all VarE.-------------------
+0.085679057431661931
+--------------------Following all V_Score.-------------------
+0.005622424183081313
+~~~~~~~~~~~~Min of All: -12.344557762145996,Index: 1 ~~~~~~~
+~~~~~~~~~~~~VarE of Min E: 0.085679057431661931,V_Score of Min E: 0.005622424183081313 ~~~~~~~
+~~~~~~~~~~~~Avg VarE: 0.085679057431661931,Avg V_Score: 0.005622424183081313 ~~~~~~~
+~~~~~~~~~~~~Avg of All: -12.344557762145996~~~~~~~~~~~~

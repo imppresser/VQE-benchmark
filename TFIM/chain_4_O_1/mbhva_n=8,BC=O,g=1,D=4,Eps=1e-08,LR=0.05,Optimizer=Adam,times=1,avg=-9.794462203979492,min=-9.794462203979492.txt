@@ -1,0 +1,43 @@
+-------------------1 Experiment start.-------------------
+iter: 20 Ground state energy: -7.727744102478027
+iter: 40 Ground state energy: -8.093823432922363
+iter: 60 Ground state energy: -9.397809028625488
+iter: 80 Ground state energy: -9.716711997985840
+iter: 100 Ground state energy: -9.758831024169922
+iter: 120 Ground state energy: -9.771116256713867
+iter: 140 Ground state energy: -9.775830268859863
+iter: 160 Ground state energy: -9.779022216796875
+iter: 180 Ground state energy: -9.781847953796387
+iter: 200 Ground state energy: -9.784380912780762
+iter: 220 Ground state energy: -9.786535263061523
+iter: 240 Ground state energy: -9.788289070129395
+iter: 260 Ground state energy: -9.789666175842285
+iter: 280 Ground state energy: -9.790713310241699
+iter: 300 Ground state energy: -9.791503906250000
+iter: 320 Ground state energy: -9.792098999023438
+iter: 340 Ground state energy: -9.792553901672363
+iter: 360 Ground state energy: -9.792916297912598
+iter: 380 Ground state energy: -9.793201446533203
+iter: 400 Ground state energy: -9.793449401855469
+iter: 420 Ground state energy: -9.793658256530762
+iter: 440 Ground state energy: -9.793834686279297
+iter: 460 Ground state energy: -9.793995857238770
+iter: 480 Ground state energy: -9.794151306152344
+iter: 500 Ground state energy: -9.794283866882324
+iter: 520 Ground state energy: -9.794425010681152
+~~~~~~~~~~ITR: 526 ,Min: -9.794462203979492~~~~~~~~~~~~~~~
+~~~~~~~~~~VarE: 0.107297976614063373 ,V_Score: 0.008947883683645855~~~~~~~~~~~~~~~
+---------------------Experiment end.---------------------
+--------------------Following all ITR.-------------------
+526
+~~~~~~~~~~~~Avg ITR: 526~~~~~~~~~~~~
+----------------Following all Min Energy.----------------
+-9.794462203979492
+--------------------Following all VarE.-------------------
+0.107297976614063373
+--------------------Following all V_Score.-------------------
+0.008947883683645855
+~~~~~~~~~~~~Min of All: -9.794462203979492,Index: 1 ~~~~~~~
+~~~~~~~~~~~~VarE of Min E: 0.107297976614063373,V_Score of Min E: 0.008947883683645855 ~~~~~~~
+~~~~~~~~~~~~Avg VarE: 0.107297976614063373,Avg V_Score: 0.008947883683645855 ~~~~~~~
+~~~~~~~~~~~~Avg of All: -9.794462203979492~~~~~~~~~~~~
